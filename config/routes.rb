@@ -1,9 +1,8 @@
 Rails.application.routes.draw do
   get 'pages/home'
 
-  get 'welcome/index'
 
-  root 'welcome#index'
+  root 'pages#home'
 
   resources :articles
   resources :users
