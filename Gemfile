@@ -50,3 +50,11 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 #Fontawsome Icons
 
 gem "font-awesome-rails"
+
+#Form Templates
+
+gem 'simple_form'
+
+#Templates
+
+gem 'devise'
